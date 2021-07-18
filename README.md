@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @HackerLoad
+- 👀 I’m interested in computers and servers
+- 🌱 I’m currently learning javascript, java, php, linux, python, html, css, c#
