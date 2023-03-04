@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there, I'm Maxim 👋
 
-<!--
-**HackerLoad/HackerLoad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me!
+I am a frontend developer with experience in HTML, CSS, JavaScript, and React. I enjoy building web applications and creating user interfaces that are not only functional but also visually appealing.
 
-Here are some ideas to get you started:
+## Projects
++ cpuforyou: cpuforyou is a website build for an imaginary prebuild computer seller.
++ patrickf1bot: patrickf1bot is a Discordbot written in JavaScript. It was build for a Discord of a YouTuber.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+These are the technologies that I am proficient in:
++ HTML
++ CSS
++ JS
++ React
++ Bootstrap
++ Python
++ Java
++ C#
+
+## Contact
+If you have any questions or would like to collaborate on a project, please feel free to contact me at [insert email address here]. I'm always happy to chat about web development and hear about new ideas!
