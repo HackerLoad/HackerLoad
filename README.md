@@ -19,4 +19,4 @@ These are the technologies that I am proficient in:
 + C#
 
 ## Contact
-If you have any questions or would like to collaborate on a project, please feel free to contact me at [insert email address here]. I'm always happy to chat about web development and hear about new ideas!
+If you have any questions or would like to collaborate on a project, please feel free to contact me at maxim@hackerload.de. I'm always happy to chat about web development and hear about new ideas!
