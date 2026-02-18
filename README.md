@@ -1,4 +1,4 @@
-# Maxim Andris
+# Max (@hackerload)
 
 ## Business Informatics (Business-IT) Student | Software Developer | Automation Engineer
 
