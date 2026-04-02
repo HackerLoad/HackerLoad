@@ -1,92 +1,30 @@
-# Max (@hackerload)
+# Hey, I'm Maxim
 
-## Business Informatics (Business-IT) Student | Software Developer | Automation Engineer
-
-I am a Business Informatics student with a strong focus on software development, process automation, and data-driven system integration.  
-My work bridges technical implementation and business requirements, delivering scalable and maintainable solutions.
+Business Informatics student with a passion for coding. I like it when technology and business come together — which is exactly what I'm studying.
 
 ---
 
-## Professional Focus
+## About Me
 
-- Enterprise Reporting & Data Consolidation  
-- Process Automation & Workflow Optimization  
-- API Integration & System Architecture  
-- Backend Development & Scripting  
-- Structured Data Engineering  
-
-I am particularly interested in designing robust architectures that transform fragmented data sources into reliable decision-support systems.
+- I'm studying Business Informatics, learning how to build good software and why it needs to make business sense too.
+- I enjoy exploring new technologies and diving into unfamiliar codebases.
+- Outside of coding, you'll usually find me with a cup of coffee and way too many open browser tabs.
 
 ---
 
-## Technical Competencies
+## Tech Stack
 
-### Programming & Scripting
-- C 
-- JavaScript
-- Node.js
-- PowerShell
-- SQL
+**Languages**
 
-### Data & Reporting
-- Microsoft Excel (Power Query, Pivot Models)
-- Data Transformation & Cleansing
-- Automated Report Generation
-- Dashboard Engineering
-
-### Infrastructure & Tooling
-- Docker
-- Git / GitHub
-- Cloudflare
-- AWS (Foundational Services)
-
-### Web Technologies
-- HTML5 / CSS3
-- TailwindCSS
-- Responsive Interface Design
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
-## Selected Projects
+## Contact
 
-### Enterprise Hardware Reporting Automation
-Designed and implemented a structured reporting workflow consolidating device data from multiple systems into standardized analytical outputs.
-
-### TÖRKEN
-Conceptualized and developed a blockchain-oriented community project combining technical tooling, automation scripts, and structured web infrastructure.
-- <https://toerken-on-sol.dev>
-
-### kreativesprofil
-Engineered a modular portfolio platform featuring structured UI components, dynamic layouts, and maintainable frontend architecture.
-- <https://kreativesprofil-lbf.online>
-
----
-
-## Core Principles
-
-- Clean, maintainable code  
-- Clear system architecture  
-- Business-oriented technical solutions  
-- Scalability & governance awareness  
-- Structured documentation  
-
----
-
-## Current Areas of Development
-
-- Advanced system integration  
-- Data pipeline optimization  
-- Backend architecture refinement  
-- Automation in enterprise environments  
-
----
-
-## Contact & Collaboration
-
-I am open to collaboration in:
-
-- Enterprise software development  
-- Data engineering initiatives  
-- Backend and system architecture design  
-
-Please explore my repositories for detailed technical implementations.
+The best way to reach me is right here on GitHub. I'm always open to interesting projects, questions, or just a good conversation.
